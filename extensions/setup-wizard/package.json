@@ -1,0 +1,1 @@
+{\n  "name": "ssp-code-setup-wizard",\n  "version": "1.0.0",\n  "description": "SSP Code Setup Wizard",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "author": "Enmxy",\n  "license": "MIT"\n}
